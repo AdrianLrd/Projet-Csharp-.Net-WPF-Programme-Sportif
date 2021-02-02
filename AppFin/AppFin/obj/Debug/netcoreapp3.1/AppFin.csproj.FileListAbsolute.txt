@@ -1,0 +1,812 @@
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPerso.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPerso.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPerso.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPerso.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\Persistance.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\Persistance.pdb
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+D:\devoir et cours\DUT informatique\C#\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Persistance.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Persistance.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\InfoProgramme.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\InfoProgramme.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\LARDON LUC\Desktop\IUT\c#\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\InfoProgramme.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\InfoProgramme.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\InfoProgramme.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\InfoProgramme.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Mathieu\Desktop\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.g.cs
+C:\Users\Mathieu\Desktop\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.exe
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.deps.json
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.json
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.runtimeconfig.dev.json
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\AppFin.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\DataContractPersistance.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Gestion.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Modele.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\bin\Debug\netcoreapp3.1\Stub.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csprojAssemblyReference.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin_MarkupCompile.lref
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\App.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\PassBoxUC.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAdresse.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Auth\UCAuth.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListeActivite.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\ListePerso.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Login.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCMenu1.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdm.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifPdp.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifRef.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu1\UCProgrammeSportifSt.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCMenu2.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdm2.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifPdp2.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifRef2.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Menu2\UCProgrammeSportifSt2.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuPre.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\MenuSalle.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\Register.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\AjouterActivite.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoAct.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\InfoProg2.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\windows\MenuPerso.baml
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.g.resources
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfoInputs.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.AssemblyInfo.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CoreCompileInputs.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.csproj.CopyComplete
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\AppFin\obj\Debug\netcoreapp3.1\AppFin.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WnGhrW1p8f5yGwdRZZa0z/iEbVKt2ZJhYBjrvzJ9NdizW9wvgw32ti3Z+SBdRQ9SVcrjvRJpum2tmRNoPzoeQ==",
+  "success": true,
+  "projectFilePath": "D:\\RecupPc\\IUT\\Csharp\\projet\\AppFin\\AppFin\\AppFin\\DataContractPersistance\\DataContractPersistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

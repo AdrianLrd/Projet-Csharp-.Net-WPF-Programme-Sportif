@@ -1,0 +1,53 @@
+﻿<Window x:Class="AppFin.InfoAct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppFin"
+        mc:Ignorable="d"
+        Title="InfoAct" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/img/running.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" HorizontalAlignment="Left" Margin="0,50,0,0" Width="500">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <WrapPanel>
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Nom de l'activitée :</TextBlock>
+                <TextBlock x:Name="nom" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="1">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Durée :</TextBlock>
+                <TextBlock x:Name="duree" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="2">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Nombre de série :</TextBlock>
+                <TextBlock x:Name="nbserie" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="3">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Nombre de répétition :</TextBlock>
+                <TextBlock x:Name="nbrep" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="4">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Description :</TextBlock>
+                <TextBlock x:Name="desc" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+        </Grid>
+    </Grid>
+</Window>

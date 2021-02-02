@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppFin/1.0.0": {
+        "dependencies": {
+          "DataContractPersistance": "1.0.0",
+          "Gestion": "1.0.0",
+          "MaterialDesignThemes": "3.1.1",
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "AppFin.dll": {}
+        }
+      },
+      "MaterialDesignColors/1.2.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "1.2.4.1361",
+            "fileVersion": "1.2.4.1361"
+          }
+        }
+      },
+      "MaterialDesignThemes/3.1.1": {
+        "dependencies": {
+          "MaterialDesignColors": "1.2.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "3.1.1.1361",
+            "fileVersion": "3.1.1.1361"
+          }
+        }
+      },
+      "DataContractPersistance/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "DataContractPersistance.dll": {}
+        }
+      },
+      "Gestion/1.0.0": {
+        "dependencies": {
+          "DataContractPersistance": "1.0.0",
+          "Modele": "1.0.0",
+          "Stub": "1.0.0"
+        },
+        "runtime": {
+          "Gestion.dll": {}
+        }
+      },
+      "Modele/1.0.0": {
+        "runtime": {
+          "Modele.dll": {}
+        }
+      },
+      "Stub/1.0.0": {
+        "dependencies": {
+          "Modele": "1.0.0"
+        },
+        "runtime": {
+          "Stub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppFin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/1.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1bdii2AfMlkTWS0sYumkECko1cQFRuTYMQOYAQCAWUy2cV39v6BMdVFJ1KFBjv+gvwhaxOs0fYbAUqMeOhgGlw==",
+      "path": "materialdesigncolors/1.2.4",
+      "hashPath": "materialdesigncolors.1.2.4.nupkg.sha512"
+    },
+    "MaterialDesignThemes/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4pZcQ50ZTK6KAWdb2rXOI0G4t2UFmNGTCpkQMtPyrAPWGqcePo4N1y6KnHLVZ1JHOfPJ078KXV1Tq7kT9uNAWQ==",
+      "path": "materialdesignthemes/3.1.1",
+      "hashPath": "materialdesignthemes.3.1.1.nupkg.sha512"
+    },
+    "DataContractPersistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gestion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

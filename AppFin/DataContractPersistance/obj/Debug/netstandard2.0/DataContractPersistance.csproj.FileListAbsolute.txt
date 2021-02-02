@@ -1,0 +1,96 @@
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Mathieu\Desktop\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.deps.json
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\DataContractPersistance.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\bin\Debug\netstandard2.0\Modele.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csprojAssemblyReference.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfoInputs.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.AssemblyInfo.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CoreCompileInputs.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.csproj.CopyComplete
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\DataContractPersistance\obj\Debug\netstandard2.0\DataContractPersistance.pdb

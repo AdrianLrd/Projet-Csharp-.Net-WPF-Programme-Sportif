@@ -1,0 +1,25 @@
+﻿<Window x:Class="AppFin.MenuSalle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppFin"
+        mc:Ignorable="d"
+        Title="MenuSalle" Height="720" Width="1280">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="img/running.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <local:UCMenu2 Grid.Row="1"/>
+        <Grid Grid.Row="0">
+            <WrapPanel Width="140" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20">
+                <Button Content="Revenir au menu" Foreground="White" Background="#419CE8" Click="Retour_Main"/>
+            </WrapPanel>
+        </Grid>
+    </Grid>
+</Window>

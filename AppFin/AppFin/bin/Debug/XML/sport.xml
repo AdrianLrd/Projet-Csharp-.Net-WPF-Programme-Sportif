@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataToPersist xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/DataContractPersistance">
+  <Activites z:Id="2" z:Size="5">
+    <ActivitéDTO z:Id="3">
+      <UniqueId z:Id="4">activité1</UniqueId>
+      <NomAct z:Id="5">balançoire</NomAct>
+      <Duree>45</Duree>
+      <NbSerie>15</NbSerie>
+      <NbRep>3</NbRep>
+      <Desc z:Id="6">lalalala une description</Desc>
+    </ActivitéDTO>
+    <ActivitéDTO z:Id="7">
+      <UniqueId z:Id="8">activité2</UniqueId>
+      <NomAct z:Id="9">vélo</NomAct>
+      <Duree>30</Duree>
+      <NbSerie>10</NbSerie>
+      <NbRep>3</NbRep>
+      <Desc z:Id="10">Une autre description</Desc>
+    </ActivitéDTO>
+    <ActivitéDTO z:Id="11">
+      <UniqueId z:Id="12">activité3</UniqueId>
+      <NomAct z:Id="13">course</NomAct>
+      <Duree>60</Duree>
+      <NbSerie>5</NbSerie>
+      <NbRep>5</NbRep>
+      <Desc z:Id="14">Encore une autre</Desc>
+    </ActivitéDTO>
+    <ActivitéDTO z:Id="15">
+      <UniqueId z:Id="16">nouvelleact</UniqueId>
+      <NomAct z:Id="17">NewActivité</NomAct>
+      <Duree>15</Duree>
+      <NbSerie>5</NbSerie>
+      <NbRep>10</NbRep>
+      <Desc z:Id="18">Test ajout activité</Desc>
+    </ActivitéDTO>
+    <ActivitéDTO z:Id="19">
+      <UniqueId z:Id="20">jaa</UniqueId>
+      <NomAct z:Id="21">Activité</NomAct>
+      <Duree>5</Duree>
+      <NbSerie>10</NbSerie>
+      <NbRep>10</NbRep>
+      <Desc z:Id="22">je test</Desc>
+    </ActivitéDTO>
+  </Activites>
+  <Programmes z:Id="23" z:Size="5">
+    <ProgrammeDTO z:Id="24">
+      <NomProg z:Id="25">MaisonSport</NomProg>
+      <Periodicite z:Id="26">Lundi, Mardi</Periodicite>
+      <_intensite>Intermediaire</_intensite>
+    </ProgrammeDTO>
+    <ProgrammeDTO z:Id="27">
+      <NomProg z:Id="28">Maison</NomProg>
+      <Periodicite z:Id="29">Jeudi, Dimanche</Periodicite>
+      <_intensite>Expert</_intensite>
+      <_objectif>Prise</_objectif>
+    </ProgrammeDTO>
+    <ProgrammeDTO z:Id="30">
+      <NomProg z:Id="31">SalleSport</NomProg>
+      <Periodicite z:Id="32">Lundi</Periodicite>
+      <_objectif>Tonifier</_objectif>
+    </ProgrammeDTO>
+    <ProgrammeDTO z:Id="33">
+      <NomProg z:Id="34">hghf</NomProg>
+      <Periodicite z:Id="35">gfhfgh</Periodicite>
+    </ProgrammeDTO>
+    <ProgrammeDTO z:Id="36">
+      <NomProg z:Id="37">couco</NomProg>
+      <Periodicite z:Id="38">10</Periodicite>
+      <_intensite>Intermediaire</_intensite>
+    </ProgrammeDTO>
+  </Programmes>
+  <Utilisateurs z:Id="39" z:Size="7">
+    <UtilisateurDTO z:Id="40">
+      <Mail z:Id="41">adrian.lardon</Mail>
+      <Pseudo z:Id="42">Paolo</Pseudo>
+      <Mdp z:Id="43">jetest</Mdp>
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="44">
+      <Mail z:Id="45">mathieu.albiero</Mail>
+      <Pseudo z:Id="46">Mathieu</Pseudo>
+      <Mdp z:Ref="43" i:nil="true" />
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="47">
+      <Mail z:Id="48">adrian.lardon@etu.uca.fr</Mail>
+      <Pseudo z:Id="49">Paolo</Pseudo>
+      <Mdp z:Id="50">1234</Mdp>
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="51">
+      <Mail z:Id="52">mathieu.albiero@etu.uca.fr</Mail>
+      <Pseudo z:Id="53">Math</Pseudo>
+      <Mdp z:Id="54">1234</Mdp>
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="55">
+      <Mail z:Id="56">adrian.lardon@gmail.com</Mail>
+      <Pseudo z:Id="57">Paolo</Pseudo>
+      <Mdp z:Id="58">1234</Mdp>
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="59">
+      <Mail z:Id="60">sdsqds</Mail>
+      <Pseudo z:Id="61">sqdsdqdsq</Pseudo>
+      <Mdp z:Id="62">12345678</Mdp>
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="63">
+      <Mail z:Id="64">adrian.@gmail.com</Mail>
+      <Pseudo z:Id="65">Adrian</Pseudo>
+      <Mdp z:Id="66">12345678</Mdp>
+    </UtilisateurDTO>
+  </Utilisateurs>
+</DataToPersist>

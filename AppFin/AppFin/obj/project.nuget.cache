@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ra5Votyxmuhf7sKVaHbj4QS7xYMVnfZPTEu70ky2LpnYAJaG7vB4bYYvckQ1NrxiFjU5t2DMOkwgLDtaP8qMiA==",
+  "success": true,
+  "projectFilePath": "D:\\RecupPc\\IUT\\Csharp\\projet\\AppFin\\AppFin\\AppFin\\AppFin\\AppFin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\materialdesigncolors\\1.2.4\\materialdesigncolors.1.2.4.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\materialdesignthemes\\3.1.1\\materialdesignthemes.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

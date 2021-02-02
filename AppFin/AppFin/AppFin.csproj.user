@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Auth\PassBoxUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Auth\UCAdresse.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Auth\UCAuth.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\InfoAct.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListeActivite.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListePerso.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu1\UCMenu1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu1\UCProgrammeSportifPdm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu1\UCProgrammeSportifPdp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu1\UCProgrammeSportifRef.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu1\UCProgrammeSportifSt.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\MenuPerso.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Register.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\AjouterActivite.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Auth\PassBoxUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Auth\UCAdresse.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Auth\UCAuth.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\InfoAct.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListeActivite.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListePerso.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Menu1\UCMenu1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\MenuPerso.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuPre.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Menu1\UCProgrammeSportifPdm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Menu1\UCProgrammeSportifPdp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Menu1\UCProgrammeSportifRef.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Menu1\UCProgrammeSportifSt.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Register.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AjouterActivite.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

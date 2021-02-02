@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataToPersist xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/DataContractPersistance">
+  <Activites z:Id="2" z:Size="3">
+    <ActivitéDTO z:Id="3">
+      <UniqueId z:Id="4">activité1</UniqueId>
+      <NomAct z:Id="5">balançoire</NomAct>
+      <Duree>45</Duree>
+      <NbSerie>15</NbSerie>
+      <NbRep>3</NbRep>
+      <Desc z:Id="6">lalalala une description</Desc>
+    </ActivitéDTO>
+    <ActivitéDTO z:Id="7">
+      <UniqueId z:Id="8">activité2</UniqueId>
+      <NomAct z:Id="9">vélo</NomAct>
+      <Duree>30</Duree>
+      <NbSerie>10</NbSerie>
+      <NbRep>3</NbRep>
+      <Desc z:Id="10">Une autre description</Desc>
+    </ActivitéDTO>
+    <ActivitéDTO z:Id="11">
+      <UniqueId z:Id="12">activité3</UniqueId>
+      <NomAct z:Id="13">course</NomAct>
+      <Duree>60</Duree>
+      <NbSerie>5</NbSerie>
+      <NbRep>5</NbRep>
+      <Desc z:Id="14">Encore une autre</Desc>
+    </ActivitéDTO>
+  </Activites>
+  <Programmes z:Id="15" z:Size="3">
+    <ProgrammeDTO z:Id="16">
+      <NomProg z:Id="17">MaisonSport</NomProg>
+      <Periodicite z:Id="18">Lundi, Mardi</Periodicite>
+      <_intensite>Intermediaire</_intensite>
+    </ProgrammeDTO>
+    <ProgrammeDTO z:Id="19">
+      <NomProg z:Id="20">Maison</NomProg>
+      <Periodicite z:Id="21">Jeudi, Dimanche</Periodicite>
+      <_intensite>Expert</_intensite>
+      <_objectif>Prise</_objectif>
+    </ProgrammeDTO>
+    <ProgrammeDTO z:Id="22">
+      <NomProg z:Id="23">SalleSport</NomProg>
+      <Periodicite z:Id="24">Lundi</Periodicite>
+      <_objectif>Tonifier</_objectif>
+    </ProgrammeDTO>
+  </Programmes>
+  <Utilisateurs z:Id="25" z:Size="2">
+    <UtilisateurDTO z:Id="26">
+      <Mail z:Id="27">adrian.lardon</Mail>
+      <Pseudo z:Id="28">Paolo</Pseudo>
+      <Mdp z:Id="29">jetest</Mdp>
+    </UtilisateurDTO>
+    <UtilisateurDTO z:Id="30">
+      <Mail z:Id="31">mathieu.albiero</Mail>
+      <Pseudo z:Id="32">Mathieu</Pseudo>
+      <Mdp z:Ref="29" i:nil="true" />
+    </UtilisateurDTO>
+  </Utilisateurs>
+</DataToPersist>

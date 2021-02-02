@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ms0MzliOpZaL79RMHLn6gfwiCW20lB1jY+dVYuEaeJ2ljXAxx4BmhVStYdEa8hs8hvYcZy5ZDSQseKPEqQTA9Q==",
+  "success": true,
+  "projectFilePath": "D:\\RecupPc\\IUT\\Csharp\\projet\\AppFin\\AppFin\\AppFin\\Stub\\Stub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adrian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adrian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

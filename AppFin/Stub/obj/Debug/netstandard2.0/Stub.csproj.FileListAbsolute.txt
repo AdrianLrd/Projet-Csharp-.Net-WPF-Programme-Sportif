@@ -1,0 +1,96 @@
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest - Copie\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\wpf\AppFinTest\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+C:\Users\Mathieu\Desktop\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\Mathieu\Desktop\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\Mathieu\Desktop\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\Mathieu\Desktop\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Mathieu\Desktop\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\Mathieu\Desktop\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\wowad\OneDrive\Bureau\IUT\c#\projet\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\Adrian01\Desktop\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+C:\Users\wowad\OneDrive\Bureau\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.deps.json
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Stub.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\bin\Debug\netstandard2.0\Modele.pdb
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csprojAssemblyReference.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfoInputs.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.AssemblyInfo.cs
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CoreCompileInputs.cache
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.csproj.CopyComplete
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.dll
+D:\RecupPc\IUT\Csharp\projet\AppFin\AppFin\AppFin\Stub\obj\Debug\netstandard2.0\Stub.pdb

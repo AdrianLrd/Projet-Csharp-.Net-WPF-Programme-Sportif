@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="AppFin.UCMenu2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AppFin"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="320"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Left" Background="#419CE8" Width="300" Grid.Column="0">
+            <StackPanel Margin="20, 80, 20, 0">
+                <WrapPanel Margin="0,0,0,40">
+                    <Image Source="img/pdp.png" Width="30" HorizontalAlignment="Left"/>
+                    <Button Click="Button_pdp" Content="Perte de poids" Style="{DynamicResource MaterialDesignFlatButton}" Foreground="White"/>
+                </WrapPanel>
+
+                <WrapPanel Margin="0,0,0,40">
+                    <Image Source="img/pdm.png" Width="30" HorizontalAlignment="Left"/>
+                    <Button  Click="Button_pdm" Content="Prise de masse musculaire"  Style="{DynamicResource MaterialDesignFlatButton}" Foreground="White"/>
+                </WrapPanel>
+
+                <WrapPanel Margin="0,0,0,40">
+                    <Image Source="img/st.png" Width="30" HorizontalAlignment="Left"/>
+                    <Button  Click="Button_st" Content="Se tonifier" Style="{DynamicResource MaterialDesignFlatButton}" Foreground="White"/>
+                </WrapPanel>
+
+                <WrapPanel Margin="0,0,0, 40">
+                    <Image Source="img/ref.png" Width="30" HorizontalAlignment="Left"/>
+                    <Button Click="Button_ref" Content="Remise en forme" Style="{DynamicResource MaterialDesignFlatButton}" Foreground="White"/>
+                </WrapPanel>
+
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Column="1" HorizontalAlignment="Center">
+            <ContentControl x:Name="contentControl">
+                <local:UCProgrammeSportifPdp2/>
+            </ContentControl>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

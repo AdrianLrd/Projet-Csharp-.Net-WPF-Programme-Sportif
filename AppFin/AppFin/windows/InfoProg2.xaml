@@ -1,0 +1,55 @@
+﻿<Window x:Class="AppFin.InfoProg2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppFin"
+        mc:Ignorable="d"
+        Title="InfoProg2" Height="360" Width="640">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/img/running.jpg"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1" HorizontalAlignment="Left" Margin="0,50,0,0" Width="500">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <WrapPanel>
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Nom du Programme :</TextBlock>
+                <TextBlock x:Name="nom" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="1">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Note :</TextBlock>
+                <TextBlock x:Name="note" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="2">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Périodicitée :</TextBlock>
+                <TextBlock x:Name="periodicite" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="3">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Intensite :</TextBlock>
+                <TextBlock x:Name="intensite" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+            <WrapPanel  Grid.Row="4">
+                <TextBlock Foreground="White" FontSize="25" FontWeight="Bold">Objectif :</TextBlock>
+                <TextBlock x:Name="objectif" Foreground="White" FontSize="25" FontWeight="Bold"/>
+            </WrapPanel>
+
+        </Grid>
+
+
+    </Grid>
+</Window>

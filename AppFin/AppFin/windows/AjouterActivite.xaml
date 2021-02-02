@@ -1,0 +1,129 @@
+﻿<Window x:Class="AppFin.windows.AjouterActivite"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppFin.windows"
+        mc:Ignorable="d"
+        Title="AjouterActivite" Height="720" Width="1280">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/img/running.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="70" Style="{DynamicResource MaterialDesignFlatButton}" Click="Button_retour">
+                <Image Source="/img/fleche.png" Width="200" Height="60" HorizontalAlignment="Left"/>
+            </Button>
+
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="31*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="200"/>
+                </Grid.RowDefinitions>
+
+                <WrapPanel>
+                    <TextBox Width="230" HorizontalAlignment="Left" Foreground="White" FontWeight="Bold" Margin="25, 0, 0, 0" FontSize="28" Text="{Binding LActivite.NomAct}"></TextBox>
+                </WrapPanel>
+
+                <Border Grid.Row="1"
+            BorderThickness="2"
+            BorderBrush="Black"
+            Margin="0,50,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+                Height="300"
+                Width="800">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <WrapPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <TextBlock Text="Durée de l'activité" FontSize="25" FontWeight="Bold" Foreground="White" Margin="20,0,50,0"/>
+                                <TextBox x:Name="textbox1" Height="30" Width="100" Foreground="White" FontWeight="Bold" PreviewTextInput="textbox1_previewtextinput" Text="{Binding LActivite.Duree}">
+                                    <TextBox.BorderBrush>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="White"/>
+                                        </LinearGradientBrush>
+                                    </TextBox.BorderBrush>
+                                </TextBox>
+                            </WrapPanel>
+
+                            <WrapPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <TextBlock Text="Nombre de série" FontSize="25" FontWeight="Bold" Foreground="White" Margin="20,0,50,0"/>
+                                <TextBox x:Name="textbox2" Height="30" Width="100" Foreground="White" FontWeight="Bold" PreviewTextInput="textbox1_previewtextinput" Text="{Binding LActivite.NbSerie}">
+                                    <TextBox.BorderBrush>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="White"/>
+                                        </LinearGradientBrush>
+                                    </TextBox.BorderBrush>
+                                </TextBox>
+                            </WrapPanel>
+
+                            <WrapPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <TextBlock Text="Nombre de répétitions" FontSize="25" FontWeight="Bold" Foreground="White" Margin="20,0,50,0"/>
+                                <TextBox x:Name="textbox3" Height="30" Width="100" Foreground="White" FontWeight="Bold" PreviewTextInput="textbox1_previewtextinput" Text="{Binding LActivite.NbRep}">
+                                    <TextBox.BorderBrush>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="White"/>
+                                        </LinearGradientBrush>
+                                    </TextBox.BorderBrush>
+                                </TextBox>
+                            </WrapPanel>
+
+                            <WrapPanel Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <TextBlock Text="Unique ID" FontSize="25" FontWeight="Bold" Foreground="White" Margin="20,0,50,0"/>
+                                <TextBox x:Name="textbox4" Height="30" Width="100" Foreground="White" FontWeight="Bold" Text="{Binding UniqueId}">
+                                    <TextBox.BorderBrush>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="White"/>
+                                        </LinearGradientBrush>
+                                    </TextBox.BorderBrush>
+                                </TextBox>
+                            </WrapPanel>
+                        </Grid>
+                        <Border  Grid.Column="1"
+                                 BorderThickness="1"
+                                BorderBrush="Black">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="40"/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <TextBlock Text="Description :" FontSize="25" FontWeight="Bold" Foreground="White"></TextBlock>
+                                <TextBox x:Name="textbox5" Grid.Row="1" Foreground="White" FontSize="25" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" Text="{Binding LActivite.Desc}"/>
+                            </Grid>
+                        </Border>
+                    </Grid>
+                </Border>
+                <Grid Grid.Row="2">
+                    <Button VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Height="50" FontSize="22" Margin="50,0,20,0" Click="AjouterActivité" Content="Validé"/>
+                </Grid>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>
